@@ -27,8 +27,10 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
 
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDeyvison&layout=compact&theme=vision-friendly-dark" />
- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=AllanDeyvison&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+
 <!--
+
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=AllanDeyvison&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 
 **AllanDeyvison/AllanDeyvison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
