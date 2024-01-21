@@ -11,13 +11,14 @@
 #### Conhecimento nas linguagens:
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 #### Conhecimento nas tecnologias:
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=AWS)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![SQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
