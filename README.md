@@ -2,11 +2,6 @@
 
 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia e desenvolvimento de software. Abaixo estão algumas das linguagens, ferramentas e serviços que utilizo:
 
-
-## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDeyvison&theme=vision-friendly-dark)
-
-
 ## 🚀 Tecnologias e Ferramentas
 
 ### Linguagens de Programação:
@@ -57,6 +52,9 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia e desenvolvimen
 ![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Elastic Load Balancing](https://img.shields.io/badge/Elastic_Load_Balancing-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDeyvison&theme=vision-friendly-dark)
 
 ## 🤝 Conecte-se Comigo
 Fique à vontade para me contatar e conectar em outras plataformas:
