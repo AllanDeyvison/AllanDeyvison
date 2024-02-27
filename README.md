@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia e desenvolvimento de software.
 
-Desenvolvedor Júnior com vivência em programação, mais de um ano de experiencias como desenvolvedor e na criação de aplicações Web. Possuo inglês nível avançado e atuei em uma Squad em um ambiente ágil usando a metodologia SCRUM, com foco em criar soluções junto ao cliente. Participei de um Bootcamp na Generation onde desenvolvi  habilidades técnicas e socioemocionais estudando funções básicas na nuvem, como operações na nuvem, confiabilidade de sites, suporte de infraestrutura e funções de suporte de negócios para desenvolver e criar soluções para desafios técnicos. 
+🖥️ Desenvolvedor Júnior com vivência em programação, mais de um ano de experiencias como desenvolvedor e na criação de aplicações Web. Possuo inglês nível avançado e atuei em uma Squad em um ambiente ágil usando a metodologia SCRUM, com foco em criar soluções junto ao cliente. Participei de um Bootcamp na Generation onde desenvolvi  habilidades técnicas e socioemocionais estudando funções básicas na nuvem, como operações na nuvem, confiabilidade de sites, suporte de infraestrutura e funções de suporte de negócios para desenvolver e criar soluções para desafios técnicos. 
 
 ## 🚀 Tecnologias e Ferramentas
 
