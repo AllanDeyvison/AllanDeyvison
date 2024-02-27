@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia e desenvolvimen
 
 
 ## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=allandeyvison&layout=compact&show_icons=true&theme=vision-friendly-dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=allandeyvison&layout=compact&theme=vision-friendly-dark)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDeyvison&layout=compact&theme=vision-friendly-dark)
 
 
