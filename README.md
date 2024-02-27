@@ -6,6 +6,9 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia e desenvolvimen
 ## 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=allandeyvison&show_icons=true&theme=radical)
 
+<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDeyvison&layout=compact&theme=vision-friendly-dark" />
+
+
 ## 🚀 Tecnologias e Ferramentas
 
 ### Linguagens de Programação:
