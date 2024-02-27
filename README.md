@@ -1,6 +1,10 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Allan Deyvison!
 
 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia e desenvolvimento de software. Abaixo estão algumas das linguagens, ferramentas e serviços que utilizo:
+
+
+## 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=allandeyvison&show_icons=true&theme=radical)
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -54,14 +58,10 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia e desenvolvimen
 ![Elastic Load Balancing](https://img.shields.io/badge/Elastic_Load_Balancing-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
-
 ## 🤝 Conecte-se Comigo
 Fique à vontade para me contatar e conectar em outras plataformas:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-username)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero-de-telefone)
-[![E-mail](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-deyvison/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511975088272)
+[![E-mail](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allandeyvisondi@gmail.com)
 
 Obrigado por visitar o meu perfil! 😊
