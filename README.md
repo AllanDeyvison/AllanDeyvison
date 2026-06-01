@@ -1,4 +1,12 @@
-# 👋 Olá, eu sou Allan Deyvison!
+
+<table align="center" >
+  <tr>
+    <td >
+      <!-- <img src="https://gifdb.com/images/high/irritated-cat-typing-on-keyboard-e0awoyntdi7c0clj.gif" width="300" alt="Animação" style="display:block;"> -->
+    </td>
+    <td >
+      <h2>About me 👨‍💻</h2>
+      <p>Olá! <b>👋 Olá, eu sou Allan Deyvison!</b>
 
 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, desenvolvimento de software e inovação.
 
@@ -9,75 +17,95 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, desenvolviment
 🎓 Atualmente curso **Desenvolvimento de Software Multiplataforma** na Fatec Cotia e sou certificado **AWS Cloud Practitioner**, com conhecimentos em serviços como EC2, S3, RDS, CloudFormation, VPC e mais.
 
 🚀 Participei de Bootcamps pela Generation Brasil, com foco em desenvolvimento **Full Stack Java** e **Cloud AWS**, além de reforçar habilidades em **Linux, Docker, Python, bancos de dados SQL/NoSQL e práticas de infraestrutura confiável**.
+          
+  </tr>
+</table>
 
----
+ <div align="center">
+  <h3> Github Stats ⚡</h3>
+<div align="center">
+  <a href="https://github.com/AllanDeyvison">
+<picture align="center">
+  <source height="175em"
+    srcset="https://github-readme-stats-umber-six-89.vercel.app/api?username=AllanDeyvison&show_icons=true&bg_color=000001&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=620096&border_radius=15&include_all_commits=true&count_private=true&hide=contribs&locale=en"
+    media="(prefers-color-scheme: dark)".
+  />
+  <source height="175em"
+    srcset="https://github-readme-stats-umber-six-89.vercel.app/api?username=AllanDeyvison&show_icons=true&bg_color=ffffff&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=620096&border_radius=15&include_all_commits=true&count_private=true&hide=contribs&locale=en"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-umber-six-89.vercel.app/api?username=AllanDeyvison&show_icons=true" />
+</picture>
+<picture align="center">
+  <source
+    srcset="https://github-readme-stats-umber-six-89.vercel.app/api/top-langs/?username=AllanDeyvison&layout=compact&langs_count=10&bg_color=000001&text_color=9370DB&title_color=C151C9&border_color=620096&border_radius=25&locale=pt-br"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-umber-six-89.vercel.app/api/top-langs/?username=AllanDeyvison&layout=compact&langs_count=10&bg_color=ffffff&text_color=7900ac&title_color=C151C9&border_color=620096&border_radius=25&locale=pt-br"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="250" height="175 src="https://github-readme-stats-umber-six-89.vercel.app/api/top-langs/?username=AllanDeyvison&layout=compact&langs_count=10" />
+</picture>
+</div> 
+</div> 
+<div align="center">
+    <h3>Skills 💡</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,angular,react,py,mysql,mongodb,androidstudio,java,spring,arduino,aws,linux&perline=7" />
+  </a>
+</p>
+</div>
 
-## 🚀 Tecnologias e Ferramentas
+<div align="center">
+    <h3>Tools 🛠️</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,figma,postman,gitlab,oracle&perline=7" />
+    </a>
+  </p>
+</div>
 
-### Linguagens de Programação:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
+    <h3>Currently Learning 📚</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vuejs,vite,dotnet,cs&perline=7" />
+    </a>
+  </p>
+</div>
 
-### Frameworks e Bibliotecas:
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+##
 
-### Banco de Dados:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  <div align="center">
+    <h3>Profiles 📋</h3>
+  <div align="center">
+     <a href="mailto:allandeyvisondi@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
+     <!-- <a href="mailto:rhuan30.santana@outlook.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white></a> -->
+     <a href = "https://www.linkedin.com/in/allandeyvisondi/"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
+    <a href = "https://github.com/AllanDeyvison"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white></a>
+  </div>
+  </div>
+  
+<br>
 
-### Cloud e Infraestrutura:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<details>
+  <summary>Github Details 📝</summary>
 
-### Ferramentas de Desenvolvimento:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+  <!-- <p align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AllanDeyvison&rows=2&column=-1&margin-w=15&margin-h=15&theme=darkhub&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="AllanDeyvison" /></a> 
+  </p> -->
 
-### Comunicação e Testes:
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AllanDeyvison&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+###
+</details>
 
-### Mensageria:
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-### Script e Automação:
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AllanDeyvison/AllanDeyvison/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AllanDeyvison/AllanDeyvison/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AllanDeyvison/AllanDeyvison/output/pacman-contribution-graph.svg">
+</picture> -->
 
----
-
-## ☁️ Serviços AWS
-- Amazon EC2, RDS, S3, VPC, CloudFront, Cloud9, SQS  
-- AWS CLI, CloudFormation  
-- Certificado: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/662c5525-f62e-4640-8d2c-874f78d380fd/public_url)
-
----
-
-## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDeyvison&theme=vision-friendly-dark)
-
----
-
-## 🤝 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-deyvison/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511975088272)  
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allandeyvisondi@gmail.com)
-
----
-
-⭐ Obrigado por visitar meu perfil!
+<!-- _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_ -->
